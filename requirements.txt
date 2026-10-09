@@ -1,0 +1,3 @@
+mcp
+pywin32
+pillow

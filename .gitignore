@@ -1,0 +1,14 @@
+# logs the server writes next to itself
+server.log
+server_crash.log
+calls.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# backups and SolidWorks temp files
+*.bak*
+~$*
