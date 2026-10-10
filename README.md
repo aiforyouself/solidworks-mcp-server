@@ -8,6 +8,8 @@ A single-file [MCP](https://modelcontextprotocol.io) server that lets an AI mode
 
 *Left: SolidWorks. Right: the chat. Sped up; nobody touches SolidWorks during the session.*
 
+▶ **Watch the video on YouTube:** [An AI builds a part in SolidWorks. I don't make a single click](https://youtu.be/sfWzfVOh3Sg) · [на русском](https://youtu.be/jRQRtlpXECo)
+
 ## What it can do
 
 27 tools. All lengths are in **millimetres**, angles in degrees — the server converts to the metres and radians that the SolidWorks API expects.
